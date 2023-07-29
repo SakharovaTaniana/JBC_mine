@@ -41,6 +41,6 @@ public class Task2 {
          */
 
         System.out.println((n % 2 == 0) ? (n >= 0)?"Четное больше или равно 0" : "Четное меньше 0":"Вы ввели неправильное число");
-
+        System.out.println();
     }
 }
